@@ -1,11 +1,10 @@
 # Skiovox Helper (Ported to Manifest Version 3!)
 ### The helper extension for the Skiovox exploit.
 
-## Install
+>[!IMPORTANT]
+>Currently, the extension may display errors in chrome://extensions, but it will still function. If you encounter any issues, please report them in the Issues tab in this Repo
 
-**Installation steps can be seen in the "stage 3" section on [skiovox.com](https://skiovox.com)**
-
-Once installed, open a new tab to see the extension's homepage.
+Once the extension was installed, open a new tab to see the extension's homepage.
 
 ## Features
 - Fixes most shortcut functionality within the exploit
@@ -15,5 +14,3 @@ Once installed, open a new tab to see the extension's homepage.
 - Allows you to see time, date, and battery.
 
 *Note: You can exit fullscreen by pressing ctrl+T after you've set up the shortcuts.*
-
-![image](https://github.com/zkayns/skiovox-helper/assets/80561998/4c09893a-65a5-45da-b70b-5f3d20c27d54)
