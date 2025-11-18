@@ -1,9 +1,6 @@
 # Skiovox Helper (Manifest Version 3 Port)
 ### A helper extension for the [Skiovox 141 exploit](https://github.com/crosbreaker/skiovox-141) found by the [Crosbreaker Team](https://crosbreaker.dev/).
 
->[!IMPORTANT]
->Currently, the extension may display errors in chrome://extensions, but it will still function. If you encounter any issues, please report them in the Issues tab in this Repo
-
 >[!NOTE]
 >I plan to revamp the UI and improve it further, so please be patient as I'm trying my best :]
 

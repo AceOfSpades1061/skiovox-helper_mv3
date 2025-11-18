@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
-  "version": "1.0.0",
+  "version": "1.0.1",
   "name": "Skiovox Helper MV3",
-  "description": "Skiovox Helper - Now ported to Manifest Version 3!",
+  "description": "The Manifest Version 3 port of Skiovox Helper, a helper extension for the Skiovox 141 exploit found by the Crosbreaker Team.",
   "icons": {
     "128": "icon.png"
   },
@@ -57,6 +57,12 @@
       "js": ["/content-scripts/window-open-fix.js"],
       "allFrames": true,
       "runAt": "document_start"
+    }
+  ],
+  "web_accessible_resources": [
+    {
+      "resources": ["/content-scripts/injected.js"],
+      "matches": [ "<all_urls>" ]
     }
   ]
 }
